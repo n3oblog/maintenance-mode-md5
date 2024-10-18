@@ -8,8 +8,6 @@
 ![image](https://github.com/user-attachments/assets/bb868d23-4088-4858-9bc1-ab571fdfbbae)
 
 
-![image](https://github.com/user-attachments/assets/d1246cae-b22c-4d5a-b2d4-5740d6903404)
-
 You'll see a **Maintenance Mode** tab in the left sidebar of the WordPress Admin Panel. Open it and check the checkbox if you need to enable this mode.
 ![image](https://github.com/user-attachments/assets/5600e470-7569-4802-a1d8-7805b5a6e548)
 
